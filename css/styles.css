@@ -8240,11 +8240,6 @@ textarea.form-control-lg {
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
   text-align: center;
 }
-@media (max-width: 768px) {
-  .text-white {
-    padding-right: 0.6cm;
-  }
-}
 
 .text-body {
   --bs-text-opacity: 1;

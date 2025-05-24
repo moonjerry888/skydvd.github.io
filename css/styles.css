@@ -159,7 +159,7 @@ h4, .h4 {
 }
 @media (max-width: 768px) {
   h4, .h4 {
-    padding-left: 0.8cm;
+    padding-left: 0.15cm;
   }
 }
 
